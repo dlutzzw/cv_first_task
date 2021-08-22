@@ -1,6 +1,6 @@
 
 General statement of the model:<br>
-The adopted data set is gesture recognition dataset(The data set comes from 2062 pictures taken in the school competition), and the model is the pre-trained Resnet50 model under pytorch framework.<br>
+The adopted data set is gesture recognition dataset(The 2062 images in the dataset are from the Internet, ourselves!), and the model is the pre-trained Resnet50 model under pytorch framework.<br>
 
 Introduction to file functions:<br>
 gesture_dataset folder--------dataset<br>
